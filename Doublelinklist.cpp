@@ -166,13 +166,13 @@ int main (){
     addLast(databaru2);
     printDoubleLinkedList();
 
-    cout <<"Hapus Data di depan \n";
-    removeFirst();
-    printDoubleLinkedList();
+    //cout <<"Hapus Data di depan \n";
+    //removeFirst();
+    //printDoubleLinkedList();
 
-    cout <<"Hapus Data di belakang \n";
-    removeLast();
-    printDoubleLinkedList();
+    //cout <<"Hapus Data di belakang \n";
+    //removeLast();
+    //printDoubleLinkedList();
 
     cout <<"Insert Data di n \n";
     string databaru3[2] = {"Popi","80"};
